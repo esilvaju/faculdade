@@ -1,2 +1,2 @@
-# faculdade
+# Faculdade
 Tudo sobre faculdade
