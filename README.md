@@ -6,6 +6,9 @@ Tudo sobre faculdade
 - [Black Board](https://bb.cruzeirodosulvirtual.com.br/?new_loc=%2Fultra%2Finstitution-page)
 - [Area do aluno](https://novoportal.cruzeirodosul.edu.br)
 
+[1 - Semestre](1-semestre/Readme.md)
+
+
 ---
 
 Materias da trilha:
